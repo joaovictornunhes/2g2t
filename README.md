@@ -1,3 +1,3 @@
-# Estudo do segundo Trimentre
-# 2g2t
-
+# Estudo do Segundo Trimestre
+## Tema da Sala: Filmes (Cinema)
+Joao Victor Nunhes- 18
